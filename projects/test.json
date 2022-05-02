@@ -1,0 +1,11 @@
+{
+  "name": "Test Project",
+  "brief": "This is just an example project",
+  "description": "This is just an example project. This is a technical demo about 2LStudios web CMS powered by GitHub.",
+  "links": {
+    "ci": "https://ci.2lstudios.dev",
+    "donate": "https://paypal.me/sammwy",
+    "github": "https://github.com/2lstudios-mc/",
+    "wiki": "https://github.com/2lstudios-mc/"
+  }
+}
