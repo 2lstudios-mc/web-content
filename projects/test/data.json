@@ -7,9 +7,14 @@
   "release_date": 1651612625776,
   "update_date": 1651612625776,
   "links": {
-    "ci": "https://ci.2lstudios.dev",
+    "buy": "https://2lstudios.dev/",
+    "bstats": "https://bstats.org/2lstudios/",
+    "discord": "https://discord.gg/sammwy",
     "donate": "https://paypal.me/sammwy",
     "github": "https://github.com/2lstudios-mc/",
+    "jenkins": "https://ci.2lstudios.dev",
+    "mcmarket": "https://mc-market.org/",
+    "twitter": "https://twitter.com/2lstudios/",
     "wiki": "https://github.com/2lstudios-mc/"
   }
 }
