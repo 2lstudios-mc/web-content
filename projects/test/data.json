@@ -2,6 +2,10 @@
   "name": "Test Project",
   "brief": "This is just an example project",
   "description": "This is just an example project. This is a technical demo about 2LStudios web CMS powered by GitHub.",
+  "version": "1.0.0",
+  "tags": ["This", "is", "just", "an", "example"],
+  "release_date": 1651612625776,
+  "update_date": 1651612625776,
   "links": {
     "ci": "https://ci.2lstudios.dev",
     "donate": "https://paypal.me/sammwy",
