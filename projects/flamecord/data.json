@@ -1,0 +1,15 @@
+{
+  "name": "FlameCord",
+  "brief": "Performance & Security BungeeCord fork to block Bots & Exploits.",
+  "description": "FlameCord is a performance & security BungeeCord fork to block bots & exploits.",
+  "version": "Release",
+  "tags": ["Security", "FlameCord", "BungeeCord", "Waterfall", "AntiBot", "AntiExploit"],
+  "links": {
+    "buy": "https://www.mc-market.org/resources/13492/",
+    "discord": "https://discord.com/invite/gF36AT3",
+    "github": "https://github.com/2lstudios-mc/",
+    "jenkins": "https://ci.2lstudios.dev",
+    "paypal": "https://paypal.me/linsaftw",
+    "twitter": "https://twitter.com/2lstudios/"
+  }
+}
